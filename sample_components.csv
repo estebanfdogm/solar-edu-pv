@@ -1,0 +1,5 @@
+Categoria,Componente,Referencia educativa,Potencia o capacidad,Observacion
+Panel FV,Módulo monocristalino,Ejemplo 550 W,550 W,Valor típico para ejercicios
+Batería,Batería de ciclo profundo,Ejemplo 24 V 200 Ah,4800 Wh nominales,Validar DoD y voltaje real
+Controlador,MPPT,Ejemplo 60 A,60 A,Seleccionar según tensión del banco
+Inversor,Inversor senoidal,Ejemplo 2 kW,2000 W,Considerar picos de arranque

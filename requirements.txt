@@ -1,0 +1,6 @@
+streamlit>=1.50
+plotly>=5.20
+numpy>=1.26
+pandas>=2.1
+pvlib>=0.10
+pyinstaller>=6.0
