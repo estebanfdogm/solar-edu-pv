@@ -6,4 +6,7 @@ build/
 dist/
 *.spec
 .env
+.env.*
+.streamlit/secrets.toml
 .DS_Store
+Thumbs.db
